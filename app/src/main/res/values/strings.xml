@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cure Me</string>
+    <string name="title_activity_grid_item">GridItemActivity</string>
+    <string name="title_activity_contact_doctor">Contact a Doctor</string>
+    <string name="name">Enter your name</string>
+    <string name="age">Enter your age</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="duration">Duration of Complain (In Months)</string>
+    <string name="complain">Complain In Detail</string>
+    <string name="medication">Any Medication/Prior Investigation</string>
+    <string name="email">E-Mail</string>
+    <string name="skype">Call a Doctor</string>
+    <string name="title_activity_nearest_help">Nearest Help</string>
+    <string name="Cancel">Cancel</string>
+    <string name="SendEmail">Send E-Mail</string>
+    <string name="action_search_by_city">Search By City</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="back">Up</string>
+    <string name="show_map">Show Items on Map</string>
+    <string name="admob_id">ca-app-pub-7848962688204458/5023784927</string>
+    <string name="admob_int_id">ca-app-pub-7848962688204458/6500518127</string>
+    <string name="icon">Icon</string>
+    <string name="title_activity_tip_of_day">Tip of the Day</string>
+    <string name="home">Home</string>
+    <string name="goBackHome">Go back Home >></string>
+    <string name="refer_friend">Refer a Friend</string>
+    
+    <string-array name="city_array">
+        <item>Mumbai</item>
+        <item>Pune</item>
+        <item>Delhi</item>
+        <item>Kolkatta</item>
+        <item>Sydney</item>
+        <item>Tokyo</item>
+        <item>Singapore</item>
+        <item>Beijing</item>
+        <item>Ottawa</item>
+        <item>Paris</item>
+        <item>London</item>
+        <item>Roma</item>
+        <item>Madrid</item>
+        <item>Bangkok</item>
+        <item>Dubai</item>
+        <item>Istanbul</item>
+        <item>Cairo</item>
+        <item>Dublin</item>
+        <item>Barcelona</item>
+        <item>Prague</item>
+        <item>New York</item>
+        <item>Hong Kong</item>
+        <item>Melbourne</item>
+        <item>Guangzhou</item>
+        <item>Johannesburg</item>
+    </string-array>
+
+
+</resources>

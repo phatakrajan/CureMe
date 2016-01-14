@@ -1,0 +1,133 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:id="@+id/btnLayout"
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:id="@+id/cancel"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@null"
+            android:text="@android:string/cancel" />
+
+        <Button
+            android:id="@+id/email"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@null"
+            android:text="@string/SendEmail" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/separator"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_above="@id/btnLayout"
+        android:layout_marginBottom="0dp"
+        android:paddingTop="10dp"
+        android:background="?android:attr/dividerVertical" />
+
+    <ScrollView
+        android:id="@+id/ScrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/separator"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:scrollbarStyle="outsideOverlay"
+        android:scrollbars="none|vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/EditTextName"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/name"
+                android:inputType="textPersonName"
+                android:padding="10dp"
+                android:imeOptions="actionNext" >
+            </EditText>
+
+            <EditText
+                android:id="@+id/age"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/age"
+                android:inputType="number"
+                android:padding="10dp" 
+                android:imeOptions="actionNext">
+            </EditText>
+
+            <RadioGroup
+                android:id="@+id/radioSex"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="10dp" >
+
+                <RadioButton
+                    android:id="@+id/radioMale"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:checked="true"
+                    android:text="@string/radio_male" />
+
+                <RadioButton
+                    android:id="@+id/radioFemale"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/radio_female" />
+            </RadioGroup>
+
+            <EditText
+                android:id="@+id/duration"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/duration"
+                android:inputType="number"
+                android:padding="10dp" 
+                android:imeOptions="actionNext">
+            </EditText>
+
+            <EditText
+                android:id="@+id/complain"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/complain"
+                android:inputType="textMultiLine"
+                android:lines="5" 
+                android:imeOptions="actionNext">
+            </EditText>
+
+            <EditText
+                android:id="@+id/medication"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/medication"
+                android:inputType="textMultiLine"
+                android:lines="3" 
+                android:imeOptions="actionNext">
+            </EditText>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FirstAid>
+  <Item>
+    <title>Animal bites</title>
+    <ImagePath>images/FirstAid/Animal_bites.png</ImagePath>
+    <Element>AnimalBites</Element>
+    <Description>Follow the emergency steps given in this section and contact a doctor immediately. 
+    
+For detail description go to fullscreen mode.</Description>
+    <Content>&lt;p>Follow the emergency steps given in this section and contact a doctor immediately.&lt;/p>
+&lt;p>&lt;ul>&lt;li>Calm the affected person.&lt;/li>&lt;li>Wash hands before attending to wound.&lt;/li>&lt;li>Wash wound with soap and running water.&lt;/li>&lt;li>Apply antibiotic ointment&lt;/li>&lt;li>Dress using sterile bandage.&lt;/li>&lt;li>Keep the injury elevated above the level of the heart (if possible) for a few minutes to slow swelling.&lt;/li>&lt;li>After first aid, medical treatment must be sought quickly.&lt;/li>&lt;li>Suturing may be required.&lt;/li>&lt;li>Tetanus booster / antibiotics required&lt;/li>&lt;li>Treatment depends on type / location of wound&lt;/li>
+&lt;/ul>&lt;/p>
+
+&lt;p>Treatment of a Sting in the Skin&lt;/p>
+&lt;ul>&lt;li>Remove the sting, if still present, with tweezers&lt;/li>&lt;li>Apply a cold compress to relieve pain and minimize swelling&lt;/li>&lt;li>Advise the casualty to see their own medical practitioner&lt;/li>&lt;/ul>
+
+&lt;p>Treatment of a Sting in the Mouth&lt;/p>&lt;ul>&lt;li>Give the casualty ice to suck to minimize swelling&lt;/li>&lt;li>Contact the emergency service&lt;/li>&lt;/ul>
+
+&lt;p>Treatment of Snake Bites&lt;/p>&lt;ul>&lt;li>Lay the casualty down, telling them to keep calm and still&lt;/li>&lt;li>Wash the wound thoroughly with soap and water, if possible&lt;/li>&lt;li>Immobilize the affected area &lt;/li>&lt;li>Keep area slightly elevated&lt;/li>&lt;li>Apply cool compress/wet cloth to affected part&lt;/li>&lt;li>Apply a firm bandage 2-4 inches above bite to prevent venom from spreading and take care of any bleeding&lt;/li>&lt;li>Contact the emergency service immediately&lt;/li>&lt;/ul>
+
+
+&lt;p>In case of emergency from Insect Bites and Stings&lt;/p>
+&lt;ul>
+&lt;li>Try to keep the person calm&lt;/li>
+&lt;li>Check the person's breathing&lt;/li>
+&lt;li>Remove constricting items, like rings, from finger/nose/ears&lt;/li>
+&lt;li>Do &lt;a href="https://en.wikipedia.org/wiki/CPR">Cardiopulmonary Resuscitation&lt;/a> (CPR)&lt;/li>
+&lt;li>Contact the emergency service immediately&lt;/li>
+&lt;/ul></Content>
+  </Item>
+  <Item>
+    <title>Bleeding Gums</title>
+    <ImagePath>images/FirstAid/Bleeding_Gums.png</ImagePath>
+    <Element>BleedingGums</Element>
+    <Description>Follow the emergency steps given in this section and contact a doctor immediately. 
+    
+For detail description go to fullscreen mode.</Description>
+    <Content>&lt;p>Follow the emergency steps given in this section and contact a doctor immediately.&lt;/p>
+&lt;ul>    
+&lt;li>Apply pressure using ice-pack&lt;/li>
+&lt;li>Rinse your mouth with a Pinch of salt in lukewarm water&lt;/li>
+&lt;li>Rinse twice a day to reduce swelling&lt;/li>
+&lt;li>Consult a dentist if bleeding continues&lt;/li>
+&lt;li>Massage gums regularly&lt;/li>
+&lt;li>Reline poorly fitted dentures&lt;/li>
+&lt;/ul></Content>
+  </Item>
+  <Item>
+    <title>Heat Stroke</title>
+    <ImagePath>images/FirstAid/Heat_Stroke.png</ImagePath>
+    <Element>HeatStroke</Element>
+    <Description>Follow the emergency steps given in this section and contact a doctor immediately. 
+    
+For detail description go to fullscreen mode.</Description>
+    <Content>&lt;p>Follow the emergency steps given in this section and contact a doctor immediately.&lt;/p>
+&lt;ul>
+&lt;li>Move the person to a shady place&lt;/li>
+&lt;li>Cool the person by sponging with wet towel&lt;/li>
+&lt;li>Apply ice packs&lt;/li>
+&lt;li>Water with electrolyte, fruit/vegetable juice, coconut water should be given&lt;/li>
+&lt;li>Patient should be allowed to take rest&lt;/li>&lt;/ul></Content>
+  </Item>
+  <Item>
+    <title>Toothache</title>
+    <ImagePath>images/FirstAid/Toothache.png</ImagePath>
+    <Element>Toothache</Element>
+    <Description>Follow the emergency steps given in this section and contact a doctor immediately. 
+    
+For detail description go to fullscreen mode.</Description>
+    <Content>&lt;p>Follow the emergency steps given in this section and contact a doctor immediately.&lt;/p>&lt;ul>
+&lt;li>Use a floss to remove any particle lodged between teeth&lt;/li>
+&lt;li>Rinse your mouth with warm water&lt;/li>
+&lt;li>Applying clove oil on the tooth, or chew on a clove&lt;/li>
+&lt;li>An ice pack can be applied to the outside of the face&lt;/li>
+&lt;li>Crush a few fresh parsley leaves and fuse it with a little salt (optional), then put the mixture on the tooth that is aching&lt;/li>
+&lt;li>Apply natural Aloe Vera gel to pacify the tooth gum&lt;/li>
+&lt;li>Visit a dentist&lt;/li>&lt;/ul></Content>
+  </Item>
+</FirstAid>

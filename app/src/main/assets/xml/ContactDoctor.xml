@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContactDoctor>
+  <Item>
+    <title>EMail</title>
+    <ImagePath>images/ContactDoctor/mail_logo.png</ImagePath>
+    <Element>EMail</Element>
+    <Description>Send E-Mail to a doctor
+    </Description>
+    <Content></Content>
+  </Item>
+  <Item>
+    <title>Skype</title>
+    <ImagePath>images/ContactDoctor/skype_logo.png</ImagePath>
+    <Element>Skype</Element>
+    <Description>Call a doctor on Skype</Description>
+    <Content></Content>
+  </Item>
+</ContactDoctor>
+

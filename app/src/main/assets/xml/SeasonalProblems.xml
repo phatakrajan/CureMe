@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SeasonalProblems>
+  <Item>
+    <title>Summer</title>
+    <ImagePath>images/SeasonalProblems/Summer.png</ImagePath>
+    <Element>Summer</Element>
+    <Description>Summer Time !!!
+Certain measures that you can take to combat the summer heat and stay healthy this season are described in this section. 
+     
+For detailed description switch to fullscreen mode.
+    </Description>
+    <Content>&lt;p>Summer Time !!!&lt;br/>
+Following are certain measures that you can take to combat the summer heat and stay healthy this season&lt;/p>
+&lt;ul>
+&lt;li>Drink plenty of liquids like coconut water, sugarcane juice, fruit juice, buttermilk etc.&lt;/li>
+&lt;li>At least 10 glasses of water a day is must in this season.&lt;/li>
+&lt;li>Eat light food.&lt;/li>
+&lt;li>Avoid hot, spicy, oily meals and opt for foods high in water content including fruits, salads, soups and buttermilk.&lt;/li>
+&lt;li>Lassi made from churned curd, cream and ginger acts as re-hydrating agent in summer.&lt;/li>
+&lt;li>A raw mango with salt can quench excessive thirst.&lt;/li>
+&lt;li>Avoid alcoholic beverages and drinks containing caffeine(tea and coffee) which can make the condition for heat worse.&lt;/li>
+&lt;li>While going out use umbrella to block sun rays.&lt;/li>
+&lt;li>Do outdoor work in the early mornings or late evenings.&lt;/li>
+&lt;li>Take frequent baths and showers to cool your body and to keep it clean.&lt;/li>
+&lt;li>Wear light-colored, loose fitting cotton clothes.&lt;/li>
+&lt;li>Smoking can constrict blood vessels and impair the ability to acclimatize to heat, so avoid it.&lt;/li>
+&lt;li>Fans blow hot air and increase the amount of evaporation of sweat. So, air conditioners are better.&lt;/li>&lt;/ul></Content>
+  </Item>
+  <Item>
+    <title>Monsoon</title>
+    <ImagePath>images/SeasonalProblems/Monsoon.png</ImagePath>
+    <Element>Monsoon</Element>
+    <Description>Its Raining... Get your umbrellas and raincoats out.
+Beware this is very dagerous season. If you can can stay healthy then only you can enjoy the rains.
+      
+For detailed description switch to fullscreen mode.
+    </Description>
+    <Content>&lt;p>Its Raining... Get your umbrellas and raincoats out.Beware this is very dagerous season. If you can can stay healthy then only you can enjoy the rains.&lt;/p>
+
+&lt;p>From the health point of view beginning and end of the rainy season are very troublesome.The initial days of the monsoon can
+cause problems for the body because of the sudden transition of from bone-dry heat to days soaked in a downpour. The
+pre-monsoon days packed with clouds causing intense suffocation, resulting in excessive sweating.
+&lt;/p>
+&lt;p>The body is weakened during the summer, as it is the period of dehydration. The digestive power is also weekened. Hence it is
+advisable to be moderate regarding diet during the rainy season.&lt;/p>
+&lt;ul>
+&lt;li>One should abstain from sleeping during the daytime.&lt;/li>
+&lt;li>Avoid drinking untreated water as waterborne diseases are at its peak during this season.&lt;/li>
+&lt;li>Abstain from excercise and moving about in the sun after a spell of rain.&lt;/li>
+&lt;li>Use of honey liberally in your diet would be very helpful.&lt;/li>
+&lt;li>If the days are cooler due to heavy rains, one should take diet and drinks that are conspicuously sour, salty, and unctuous.&lt;/li>
+&lt;li>One can have fresh and hot vegetable soups.&lt;/li>
+&lt;li>One should wear light and clean apparel.&lt;/li>
+&lt;li>Try to keep your rooms devoid of humidity.&lt;/li>
+&lt;li>Do not allow water to stagnate in your compound. Such pools are breeding ground for mosquitoes and other insects.&lt;/li>&lt;/ul></Content>
+  </Item>
+  <Item>
+    <title>Winter</title>
+    <ImagePath>images/SeasonalProblems/Winter.png</ImagePath>
+    <Element>Winter</Element>
+    <Description>Winter is here... Grab your woolen clothes. Its time to flaunt them.
+Also follow certain basic steps to be healthy this season.
+      
+For detailed description switch to fullscreen mode.
+    </Description>
+    <Content>&lt;p>Winter is here... Grab your woolen clothes. Its time to flaunt them.&lt;/p>&lt;p>Also follow certain basic steps to be healthy this season.&lt;/p>&lt;p>Our body is programmed to take care of the changes, but occasionally you may have to aid the process of adjustment through food
+and suitable alterations in lifestyle. When a cold, dry winds blow, the body sense that something akin to itself has begun to
+dominate the scene.&lt;/p>
+&lt;p>During Winter the digestive system becomes stronger and it can effectively digest large quantities of food.&lt;/p>
+&lt;ul>
+&lt;li>One can consume milk, ghee, fat, oils, rice as dietary staples.&lt;/li>
+&lt;li>Include sour, sweet, salted soup or meat of aquatic and marshy animals in the diet.&lt;/li>
+&lt;li>Try to include wine, vinegar, and honey in the diet.&lt;/li>
+&lt;li>Regularly massage the body with oils. Also apply oil on head&lt;/li>
+&lt;li>Use room heaters or spend time in heated chambers.&lt;/li>
+&lt;li>Try to expose the body to sun's rays.&lt;/li>
+&lt;li>Avoid light and cold foods. Also avoid bitter,pungent and stringent tastes.&lt;/li>
+&lt;li>To prevent drying up of the skin, take 100 ml milk, add 5 drops of olive oil and 8 drops of rose water to it. Apply on the skin gently and smoothly. Then expose yourself to mild sun for 10 minutes before a warm water bath.&lt;/li>
+&lt;li>To keep the face glowing, wash it at-least two times a day with lukewarm water.&lt;/li>
+&lt;li>Massaging the skin with mustard oil is good for skin during winter. Sunrays will enhance the the good effects if this procedure.&lt;/li>
+&lt;li>Eat plenty of greens and seasonal fruits since they contain micro and macro elements, which are required for the smooth functioning
+of body.&lt;/li>
+&lt;li>Cream of milk is also good for cracked lips, if used as an application.&lt;/li>
+&lt;li>Honey is very good natural healer. Apply it over cracked lips after diluting it with double the quantity of water.&lt;/li>&lt;/ul></Content>
+  </Item>
+</SeasonalProblems>
+

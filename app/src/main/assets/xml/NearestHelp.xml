@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NearestHelp>
+  <Item>
+    <title>Pharmacy</title>
+    <ImagePath>images/NearestHelp/pharmacy.png</ImagePath>
+    <Element>Pharmacy</Element>
+    <Description>Pharmacy
+    </Description>
+    <Content></Content>
+  </Item>
+    <Item>
+    <title>Doctors</title>
+    <ImagePath>images/NearestHelp/doctors.png</ImagePath>
+    <Element>Doctors</Element>
+    <Description>Doctors
+    </Description>
+    <Content></Content>
+  </Item>
+  <Item>
+    <title>Hospital</title>
+    <ImagePath>images/NearestHelp/Hospitals.png</ImagePath>
+    <Element>Hospital</Element>
+    <Description>Hospitals
+    </Description>
+    <Content></Content>
+  </Item>
+</NearestHelp>
