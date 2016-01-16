@@ -23,9 +23,15 @@ public class MainActivity extends Activity {
 		if (getIntent().getExtras() != null) {
 			if (getIntent().getExtras().size() > 0) {
 				message = getIntent().getStringExtra(CureMeConstants.MESSAGE);
-				mainIntent = new Intent(MainActivity.this,
-						TipOfDayActivity.class);
-				mainIntent.putExtra(CureMeConstants.MESSAGE, message);
+                if (message != null) {
+                    mainIntent = new Intent(MainActivity.this,
+                            TipOfDayActivity.class);
+                    mainIntent.putExtra(CureMeConstants.MESSAGE, message);
+                }else{
+                    mainIntent = new Intent(MainActivity.this,
+                            GroupItemActivity.class);
+                }
+
 				/*try {
 					ShortcutBadger.setBadge(getApplicationContext(), 0);
 				} catch (ShortcutBadgeException e) {
